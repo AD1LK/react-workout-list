@@ -1,0 +1,10 @@
+.item {
+    line-height: 2rem;
+    margin: 0.5rem 0;
+    padding: 1rem;
+    border-bottom: 2px solid greenyellow;
+}
+
+.delete-button {
+    margin-left: 1rem;
+}

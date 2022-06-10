@@ -52,7 +52,7 @@ class App extends React.Component {
     return (
     <div className="App">
      <h1>Workout List</h1>
-     <NewItemForm addItem={this.addItem} />
+     <NewItemForm addItem={this.addItem}/>
      <ItemList 
         workout={this.state.workout} 
         deleteItem={this.deleteItem} />

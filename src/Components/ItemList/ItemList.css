@@ -1,5 +1,6 @@
 .item-list {
     border: 4px ridge lightgrey;
+    margin-top: 1rem;
     padding: 1rem;
     list-style: none
 }
